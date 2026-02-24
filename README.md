@@ -1,19 +1,10 @@
 # 4x4 Tic Tac Toe AI
 
-This project implements a 4x4 Tic-Tac-Toe game in Python using the Minimax algorithm with Alpha-Beta pruning.
+This project implements a 4x4 Tic Tac Toe game with:
 
-## Features
-- Human vs AI gameplay
-- Intelligent decision making using Minimax
-- Alpha-Beta pruning optimization
-- Adjustable search depth
+- Minimax Algorithm
+- Alpha-Beta Pruning
+- Heuristic Evaluation
+- Multiple Difficulty Levels
 
-## Technologies Used
-- Python
-- Artificial Intelligence concepts
-- Game Theory
-
-## How to Run
-Run the file in Python:
-
-python tic_tac_toe_ai.py
+Built using Python for learning AI search algorithms.
